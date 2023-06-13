@@ -44,15 +44,6 @@ Here are some ideas to get you started:
 -   🥇 **HTML & CSS Essential Training** From _Linkedin Learning_ (Aug 2020)
 -   🥇 **Intermediate C#** From _Linkedin Learning_ (Aug 2020)
 
-## 📝 Top Blog Posts
-
--   [How to Become ASP.NET Web Developer](https://mostafa-shaban-mohamed.github.io/ArticlesPages/30August2021.html)
--   [.NET Core Vs .NET Framework: Which To Choose](https://mostafa-shaban-mohamed.github.io/ArticlesPages/6September2021.html)
--   [SOLID Principles in C#](https://mostafa-shaban-mohamed.github.io/ArticlesPages/SOLID_Prinicple.html)
--   [Inversion of Control](https://mostafa-shaban-mohamed.github.io/ArticlesPages/22December2021.html)
-
-Want more? [Check out My Website](https://github.com/Mostafa-shaban-mohamed/Mostafa-Shaban-Official)
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mostafa-shaban-mohamed.github.io/Index.html)
