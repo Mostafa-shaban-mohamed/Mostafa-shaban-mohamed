@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 🎓 My Name is **_Mostafa Shaaban Mohamed_**, a self-motivated **.NET full-stack developer** with experience working on multiple projects, outstanding preformer in **C# & Html & CSS**, graduated in 2021 from P.H.I.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **React.JS**, **Single Page Application** and **Responsive web apps**. I got started with [**Blogging**](https://mostafa-shaban-mohamed.github.io/Index.html) quite recently and still work in progress.
+👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **React.JS**, **Single Page Application** and **Responsive web apps**. I got started with Blogging quite recently and still work in progress.
 
 ## 🛠️ Skills
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mostafa-shaban-mohamed.github.io/Index.html)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/Mostafa-shaban-mohamed/Mostafa-Shaban-Official)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mostafa-shaaban-538b20180/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:MostafaShaban4522912@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mostafa-shaban-mohamed)
