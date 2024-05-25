@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 About Me
-🎓 My Name is **_Mostafa Shaaban Mohamed_**, a self-motivated **.NET full-stack developer** with experience working on multiple projects, outstanding preformer in **C# (ASP.NET) & React & Angular**, graduated in 2021 from P.H.I.
+🎓 My Name is **_Mostafa Shaaban Mohamed_**, a self-motivated **.NET full-stack developer** with experience working on multiple projects, outstanding preformer in **C# (ASP.NET) & React & Angular**, graduated from P.H.I.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **React.JS**, **Single Page Application** and **Responsive web apps**. I got started with Blogging quite recently and still work in progress. In Late 2022, I started learning Angular and still work in progress too. Now I can design, build and develop a full web application, front-end using either React Or Angular, back-end using ASP.NET Core (Clean-Archiecture, MVC Design, Three-layers Design) and Database using MS SQL Server (2014-2019).
+👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **React.JS**, **Single Page Application** and **Responsive web apps**. I got started with Blogging quite recently and still work in progress. In Late 2022, I started learning Angular and still work in progress too. Now I can design, build and develop a full web application, front-end using either React Or Angular, back-end using ASP.NET Core (Clean-Archiecture, MVC Design, Three-layers Design) and Database using MS SQL Server (2014-2022).
 
 ## 🛠️ Skills
 
