@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/Mostafa-shaban-mohamed/Mostafa-Shaban-Official)
-[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mostafa-shaaban-538b20180/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mostafa-shaaban-538b20180/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:MostafaShaban4522912@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mostafa-shaban-mohamed)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@MostafaShaaban98)
+[![B2School](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](https://b2-school.netlify.app)
+
